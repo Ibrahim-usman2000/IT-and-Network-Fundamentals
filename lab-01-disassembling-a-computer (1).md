@@ -1,7 +1,7 @@
 # Lab 01: Disassembling a Computer
 
 **Course:** NetAcad — Computer Hardware Basics (IT Essentials)
-**Date:** _(fill in today's date)_
+**Date:** September 14, 2026
 **Method:** Guided walkthrough (researched via reference material/video, no physical unit available)
 
 ## Objective

@@ -3,6 +3,20 @@
 This repository documents my hands-on learning journey in **computer hardware and IT fundamentals**, including practical laboratory exercises, component identification, PC disassembly, and PC assembly.
 
 ---
+---
+
+## 📁 Project Structure
+
+```text
+IT & Network Fundamentals/
+│
+├── 01-Computer-Hardware/
+│   ├── 1.8.1_lab_pc_assembly_manual.html
+│   └── lab-01-disassembling-a-computer (1).md
+│
+└── README.md
+
+
 
 ## 📚 Practical Labs
 

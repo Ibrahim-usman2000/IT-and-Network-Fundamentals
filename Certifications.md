@@ -3,7 +3,7 @@
 ### Cisco Networking Academy – Computer Hardware Basics
 
 
-![Cisco Hardware Badge](cisco-badge.png)
+![Cisco Hardware Badge](computer-hardware-basics.png)
 
 
 

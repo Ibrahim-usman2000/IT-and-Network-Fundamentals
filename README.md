@@ -1,4 +1,4 @@
-🖥️ Computer Hardware & IT Fundamentals
+# 🖥️ Computer Hardware & IT Fundamentals
 
 A practical learning portfolio documenting my journey into computer hardware, operating systems, and IT fundamentals through hands-on laboratory exercises, technical documentation, and system exploration.
 
@@ -8,146 +8,133 @@ My work currently covers PC disassembly and assembly, Windows process management
 
 ## 📁 Repository Structure
 
+```text
 IT & Network Fundamentals/
-│
 ├── 01-Computer-Hardware/
 │   ├── 1.8.1_lab_pc_assembly_manual.html
 │   └── lab-01-disassembling-a-computer (1).md
-│
 ├── 02-Operating-Systems/
 │   └── lab-03-os-processes-threads-registry.md
-│
 └── README.md
 
 ---
 
 📚 Practical Labs
-
 🔧 1. Computer Hardware Disassembly Lab
-
 Objective: To identify and understand the internal components of a computer through a structured disassembly and reassembly exercise.
 
-Activities performed
+Activities performed:
 
-- Powered down and disconnected the computer safely.
-- Removed the computer's side panel.
-- Identified and inspected internal hardware components.
-- Examined cables, connectors, and component placement.
-- Documented observations.
-- Reassembled and tested the computer.
+Powered down and disconnected the computer safely
 
-Components identified
+Removed the side panel
 
-- Motherboard
-- Central Processing Unit (CPU)
-- Random Access Memory (RAM)
-- Power Supply Unit (PSU)
-- Storage devices (SSD/HDD)
-- Cooling system
-- Graphics card, if installed
-- SATA cables and connectors
-- Expansion slots
+Identified internal components
+
+Detached cables and removable hardware
+
+Inspected component placement and connections
+
+Documented observations
+
+Reassembled and tested the computer
+
+Components identified:
+
+Motherboard
+
+CPU (Processor)
+
+RAM (Memory)
+
+Power Supply Unit (PSU)
+
+Storage Devices (SSD/HDD)
+
+Cooling System
+
+Graphics Card (if installed)
+
+SATA cables and connectors
+
+Expansion slots
 
 🖥️ 2. PC Assembly Lab
+Objective: Hands-on laboratory exercise focused on understanding the process of assembling a computer system and correctly installing and connecting its major hardware components.
 
-Objective: To understand the systematic process of assembling a computer and installing its major hardware components.
+Lab focus:
 
-Lab activities
+Identifying PC components before assembly
 
-- Identifying components before assembly.
-- Understanding motherboard installation.
-- Exploring CPU, cooling, RAM, and storage installation.
-- Identifying internal power cables and data connections.
-- Understanding component placement and compatibility.
-- Following a systematic assembly procedure.
-- Checking the system after assembly.
+Understanding motherboard installation
 
-Lab manual: "1.8.1_lab_pc_assembly_manual.html"
+Installing RAM and storage
+
+Understanding CPU and cooling installation
+
+Connecting power cables
+
+Connecting storage and other internal cables
+
+Understanding component placement and compatibility
+
+Following a systematic PC assembly procedure
+
+Checking the system after assembly
+
+📄 Lab Manual: 1.8.1_lab_pc_assembly_manual.html
 
 ⚙️ 3. Operating System Basics Lab
+Objective: Hands-on laboratory exercise focused on exploring core operating system concepts, system architecture, and monitoring fundamental OS components.
 
-Lab title: Exploring Processes, Threads, Handles, and Windows Registry
+Lab focus:
 
-Objective: To explore how Windows manages running applications, processes, threads, system objects, and configuration settings.
+Exploring system processes and understanding how applications run
 
-Tools explored
+Investigating threads and handle usage within the operating system
 
-- Microsoft Sysinternals Process Explorer
-- Windows Command Prompt
-- Windows Registry Editor ("regedit")
+Navigating and inspecting the Windows Registry
 
-Lab activities
+Observing resource allocation and system stability
 
-- Examining active processes using Process Explorer.
-- Identifying application processes and their relationships.
-- Observing process activity while running a "ping" command.
-- Exploring parent and child process relationships.
-- Examining process threads and their properties.
-- Inspecting handles associated with a process.
-- Exploring the main Windows Registry hives.
-- Locating and examining the Process Explorer "EulaAccepted" registry value.
+🎯 Skills Developed
+Computer hardware identification
 
-Key concepts
+PC disassembly
 
-- Processes: Running instances of programs or applications.
-- Threads: Units of execution within a process.
-- Handles: References used to access operating-system-managed objects and resources.
-- Process relationships: How parent and child processes are associated.
-- Windows Registry: A hierarchical database containing Windows and application configuration settings.
-- Registry hives: Major sections of the Registry, including "HKEY_CURRENT_USER" and "HKEY_LOCAL_MACHINE".
+PC assembly
 
-Learning outcome: Developed a foundational understanding of Windows process management, threads, handles, and Registry configuration as part of my operating-system studies.
+Component installation
 
-Lab documentation: "02-Operating-Systems/lab-03-os-processes-threads-registry.md"
+Cable and connector identification
 
----
+Cable management
 
-🎯 Skills in Development
+Operating system process and thread monitoring
 
-Category| Skills
-Computer Hardware| Component identification, PC disassembly, PC assembly
-Hardware Maintenance| Cable and connector identification, safe hardware handling, preventive maintenance
-Operating Systems| Process and thread exploration, handle inspection, Windows Registry navigation
-IT Fundamentals| System monitoring, basic troubleshooting, technical documentation
-Professional Development| Hands-on learning, structured lab documentation, continuous improvement
+Windows Registry navigation
 
----
+Hardware and system troubleshooting
 
-🛠️ Tools & Technologies
+Preventive maintenance
 
-- Hardware tools: Phillips screwdriver, computer workstation, anti-static precautions.
-- Operating-system tools: Microsoft Sysinternals Process Explorer, Windows Command Prompt, Registry Editor.
-- Documentation: Markdown, HTML lab manuals, and GitHub.
+Technical documentation
 
----
+Safe hardware handling
+
+🛠️ Tools Used
+Phillips screwdriver
+
+Computer workstation
+
+Anti-static precautions
+
+Built-in OS diagnostic and monitoring utilities (Task Manager, Registry Editor)
 
 📷 Lab Documentation
-
-This repository is an evolving record of my practical learning.
-
-As I progress, I plan to add:
-
-- Laboratory reports and step-by-step procedures.
-- Screenshots and photographs of practical exercises.
-- Technical observations and lessons learned.
-- Additional exercises in operating systems, networking, and cybersecurity.
-
----
+Lab photographs, observations, and additional practical exercises may be added to this repository as the project develops.
 
 🚀 Learning Journey
+As a Physical Security and CCTV professional transitioning into technology, this repository forms part of my journey toward developing stronger IT, computer hardware, networking, and cybersecurity skills.
 
-As a Physical Security and CCTV professional transitioning into technology, I am building a strong foundation through structured learning and practical exercises.
-
-Current learning focus
-
-- Computer hardware and IT fundamentals
-- Operating-system fundamentals
-- Networking fundamentals
-- Python programming
-- Cybersecurity concepts and practical skills
-
-My goal is to turn theoretical knowledge into practical ability, document my progress, and build a portfolio that demonstrates my development in IT and cybersecurity.
-
----
-
-This repository reflects my ongoing learning journey. Each lab represents another step toward stronger technical knowledge and practical experience.
+This repository serves as a practical record of my learning progress, laboratory exercises, and hands-on technical experience.

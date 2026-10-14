@@ -6,7 +6,7 @@ My work currently covers PC disassembly and assembly, Windows process management
 
 ---
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 IT & Network Fundamentals/
 │

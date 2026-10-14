@@ -13,11 +13,11 @@ IT & Network Fundamentals/
 ├── 01-Computer-Hardware/
 │   ├── 1.8.1_lab_pc_assembly_manual.html
 │   └── lab-01-disassembling-a-computer (1).md
+|
 ├── 02-Operating-Systems/
 │   └── lab-03-os-processes-threads-registry.md
 └── README.md
 
----
 
 📚 Practical Labs
 🔧 1. Computer Hardware Disassembly Lab

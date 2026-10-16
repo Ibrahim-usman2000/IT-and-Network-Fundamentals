@@ -2,7 +2,7 @@
 
 A hands-on learning portfolio documenting my journey into **computer hardware, operating systems, Linux, and IT fundamentals** through practical laboratory exercises, technical documentation, and system exploration.
 
-This repository demonstrates my developing technical knowledge through PC hardware disassembly and assembly, Windows process and thread analysis, Registry exploration, Ubuntu Linux practice, and virtual machine management.
+This repository documents my learning about computer hardware disassembly, guided study of PC assembly procedures, Windows processes, threads and the Registry, Ubuntu Linux, and virtual machines.
 
 ## 📁 Repository Structure
 
@@ -10,9 +10,10 @@ This repository demonstrates my developing technical knowledge through PC hardwa
 IT & Network Fundamentals/
 ├── 01-Computer-Hardware/
 │   ├── 1.8.1_lab_pc_assembly_manual.html
-│   └── lab-01-disassembling-a-computer (1).md
+│   ├── lab-01-disassembling-a-computer (1).md
+│   └── lab-02-pc-assembly-report.md
 ├── 02-Operating-System/
-│   ├── lab-03-os-processes-threads-registry.md
+│   ├── lab-02-operating-system-basics.md
 │   ├── lab-03-windows-processes-threads-handles-registry-report.md
 │   └── lab-04-ubuntu-virtual-machine-and-linux-basics.md
 ├── images/
@@ -38,18 +39,18 @@ IT & Network Fundamentals/
 
 ### 🔧 1. Computer Hardware Disassembly Lab
 
-**Objective:** To identify, examine, and understand the internal components of a computer through a structured disassembly exercise.
+**Objective:** To study the safe sequence for disassembling a desktop computer, identify its major components, and understand their functions.
 
-**Activities performed:**
-- Powered down and disconnected the computer safely.
-- Removed the computer case side panel.
-- Identified and inspected internal hardware components.
-- Examined cable connections and removable hardware.
-- Observed component placement and motherboard connections.
-- Documented findings and observations.
-- Reassembled the computer and checked the system.
+**Learning method/status:** The Lab 01 report describes a guided walkthrough using reference material. A physical disassembly is not confirmed in that report.
 
-**Components identified:**
+**Procedures studied:**
+- Reviewed the recommended power-down and unplugging precautions.
+- Used the report’s reference images to study the case interior and component layout.
+- Identified major components and common cables and connectors.
+- Studied the general order for removing storage, expansion cards, memory, the power supply, and the motherboard.
+- Reviewed safe handling and reassembly considerations.
+
+**Components covered:**
 - Motherboard
 - Central Processing Unit (CPU)
 - Random Access Memory (RAM)
@@ -61,11 +62,11 @@ IT & Network Fundamentals/
 - Expansion slots
 
 **Key learning outcomes:**
-- Understanding internal PC architecture.
-- Identifying major hardware components and their functions.
-- Recognizing common connectors and interfaces.
-- Applying safe hardware-handling procedures.
-- Developing foundational troubleshooting and maintenance skills.
+- Learned the purpose of major internal PC components.
+- Studied how components connect to the motherboard and power supply.
+- Reviewed common connectors and interfaces.
+- Learned why power isolation and electrostatic-discharge precautions matter.
+- Built foundational knowledge for a future physical hardware exercise.
 
 
 **Lab documentation:** [Computer Hardware Disassembly Lab Report](<01-Computer-Hardware/lab-01-disassembling-a-computer%20%281%29.md>)
@@ -74,6 +75,8 @@ IT & Network Fundamentals/
 ### 🖥️ 2. PC Assembly Lab
 
 **Objective:** To develop an understanding of the procedures involved in assembling a computer system and installing its major hardware components correctly.
+
+**Learning method/status:** Guided study of the original course manual; physical computer assembly is not confirmed in this report.
 
 **Lab activities and focus areas:**
 - Identifying hardware components before assembly.
@@ -86,7 +89,9 @@ IT & Network Fundamentals/
 - Following a systematic PC assembly procedure.
 - Understanding post-assembly checks and system verification.
 
-**Lab documentation:** [`1.8.1_lab_pc_assembly_manual.html`](01-Computer-Hardware/1.8.1_lab_pc_assembly_manual.html)
+**Lab documentation:** [PC Assembly Lab Report](01-Computer-Hardware/lab-02-pc-assembly-report.md)
+
+**Original course reference:** [NetAcad PC Assembly Manual (HTML)](01-Computer-Hardware/1.8.1_lab_pc_assembly_manual.html)
 
 **Key learning outcomes:**
 - Understanding the sequence of PC assembly.
@@ -97,23 +102,24 @@ IT & Network Fundamentals/
 
 ### ⚙️ 3. Operating System Basics Lab
 
-**Objective:** To explore fundamental operating system concepts by examining Windows processes, threads, system resources, and the Windows Registry.
+**Objective:** To understand the general purpose of an operating system and learn about desktop navigation, files and folders, settings, system information, applications, user accounts, updates, and security.
 
-**Lab activities:**
-- Explored running processes and how applications execute.
-- Investigated threads and their relationship to processes.
-- Examined handles and how operating systems reference system objects.
-- Navigated the Windows Registry and examined its hierarchical structure.
-- Observed system activity using Windows monitoring tools.
+**Learning method:** Foundational study and documentation. This report does not claim a separately verified hands-on Windows session.
 
-**Lab documentation:** [`lab-03-os-processes-threads-registry.md`](02-Operating-System/lab-03-os-processes-threads-registry.md)
+**Lab activities and focus areas:**
+- Reviewed the role of an operating system in coordinating hardware and applications.
+- Studied common desktop navigation and file-management tasks.
+- Reviewed where system settings and basic system information can be found.
+- Learned how applications and user accounts fit into everyday OS use.
+- Reviewed the purpose of system updates and basic security practices.
+
+**Lab documentation:** [Operating System Basics Lab Report](02-Operating-System/lab-02-operating-system-basics.md)
 
 **Key learning outcomes:**
-- Understanding the roles of processes and threads.
-- Developing familiarity with Windows Task Manager.
-- Understanding the purpose and structure of the Windows Registry.
-- Recognizing the importance of system resource monitoring.
-- Building foundational knowledge relevant to IT support and cybersecurity.
+- Understand the general purpose of an operating system.
+- Recognize common desktop and file-management features.
+- Know where to look for settings and system information.
+- Understand basic account, update, and security practices.
 
 ### 🔍 4. Windows Processes, Threads, Handles and Registry Lab
 
@@ -161,13 +167,13 @@ IT & Network Fundamentals/
 
 | Category | Skills |
 |---|---|
-| Computer Hardware | Component identification, hardware inspection, PC disassembly and assembly |
+| Computer Hardware | Component identification, hardware concepts, guided study of disassembly and assembly procedures|
 | Hardware Installation | RAM and storage installation concepts, cable and connector identification |
-| Operating Systems | Process and thread fundamentals, system resource monitoring |
+| Operating Systems |OS purpose, desktop navigation, file and folder management, settings and system information |
 | Windows Administration | Task Manager navigation, Process Explorer, Registry exploration |
 | Linux Fundamentals | Terminal navigation, basic commands, directory management |
 | Virtualization | VirtualBox configuration and Ubuntu virtual machine use |
-| Troubleshooting | Basic hardware inspection, operating system troubleshooting |
+| Troubleshooting |Basic hardware and operating-system troubleshooting concepts |
 | Documentation | Laboratory reports, screenshots, Markdown and HTML |
 | Version Control | Git, GitHub, commits, repository organization and synchronization |
 

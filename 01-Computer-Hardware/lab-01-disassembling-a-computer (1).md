@@ -7,6 +7,34 @@
 ## Objective
 Understand the safe, correct order for disassembling a desktop computer, identify each major internal component, and describe its function and removal process.
 
+
+## Hardware Images and Visual References
+
+### 1. Computer Hardware Components
+
+![Computer hardware basics](../images/computer-hardware-basics.png)
+
+### 2. Hardware Components Identification
+
+![Hardware components identification](../images/hardware-components-identification.jpg)
+
+### 3. Disassembly Tools and Components
+
+![Hardware disassembly tools and components](../images/hardware-disassembly-tools-and-components.jpg)
+
+### 4. Desktop PC Disassembly Overview
+
+![Desktop PC disassembly overview](../images/desktop-pc-disassembly-overview.jpg)
+
+### 5. Internal Computer Components
+
+![Desktop PC internal components](../images/desktop-pc-internal-components.jpg)
+
+### 6. Disassembled PC Parts Layout
+
+![Disassembled PC parts layout](../images/disassembled-pc-parts-layout.jpg)
+
+
 ## Tools Needed
 - Phillips-head screwdriver (most common)
 - Anti-static wrist strap (or frequent grounding by touching the case)

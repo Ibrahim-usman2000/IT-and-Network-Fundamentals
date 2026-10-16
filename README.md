@@ -67,6 +67,10 @@ IT & Network Fundamentals/
 - Applying safe hardware-handling procedures.
 - Developing foundational troubleshooting and maintenance skills.
 
+
+**Lab documentation:** [Computer Hardware Disassembly Lab Report](<01-Computer-Hardware/lab-01-disassembling-a-computer%20%281%29.md>)
+
+
 ### 🖥️ 2. PC Assembly Lab
 
 **Objective:** To develop an understanding of the procedures involved in assembling a computer system and installing its major hardware components correctly.
